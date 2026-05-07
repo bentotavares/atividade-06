@@ -1,4 +1,4 @@
-# atividade-06
+# atividade06
 # Introdução ao Git e GitHub
 
 ## O que é Git?
