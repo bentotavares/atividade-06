@@ -22,6 +22,18 @@ O Git é um sistema de controle de versão distribuído utilizado para gerenciar
 ```bash
 git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@email.com"
-### Inicializar um repositório
-```bash
-git init
+
+## O que é GitHub?
+
+O GitHub é uma plataforma online utilizada para armazenar projetos Git e facilitar o desenvolvimento colaborativo.
+
+- Principais funções do GitHub
+- Hospedagem de repositórios
+- Compartilhamento de código
+- Controle de versões online
+- Trabalho em equipe
+- Criação de Issues
+- Pull Requests
+- GitHub Pages
+- Backup em nuvem
+Integração com ferramentas de desenvolvimento
