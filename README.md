@@ -22,3 +22,6 @@ O Git é um sistema de controle de versão distribuído utilizado para gerenciar
 ```bash
 git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@email.com"
+### Inicializar um repositório
+```bash
+git init
