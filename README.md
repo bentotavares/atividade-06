@@ -20,7 +20,8 @@ O Git é um sistema de controle de versão distribuído utilizado para gerenciar
 ### Configuração inicial
 
 
-git config --global user.name "Seu Nome"
+git config --global user.name "Seu Nome"  
+
 git config --global user.email "seuemail@email.com"
 
 ## O que é GitHub?
